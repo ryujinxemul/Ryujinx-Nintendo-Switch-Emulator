@@ -1,0 +1,2 @@
+/* rev-c8e91a-20260908 CpuNotes.txt */
+canary cpu path, nsp xci nca load loop

@@ -1,0 +1,2 @@
+/* rev-c8e91a-20260908 Firmware.txt */
+install firmware 18.x / 19.x from zip
